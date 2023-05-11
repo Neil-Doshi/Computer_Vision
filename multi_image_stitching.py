@@ -1,9 +1,4 @@
-# # 1. Only add your code inside the function (including newly improted packages). 
-# #  You can design a new function and call the new function in the given functions. 
-# # 2. For bonus: Give your own picturs. If you have N pictures, name your pictures such as ["t3_1.png", "t3_2.png", ..., "t3_N.png"], and put them inside the folder "images".
-# # 3. Not following the project guidelines will result in a 10% reduction in grades
 
-from re import L
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
