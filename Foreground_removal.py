@@ -1,7 +1,3 @@
-#Only add your code inside the function (including newly improted packages)
-# You can design a new function and call the new function in the given functions. 
-# Not following the project guidelines will result in a 10% reduction in grades
-
 
 import cv2
 import numpy as np
